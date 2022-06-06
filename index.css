@@ -1,0 +1,130 @@
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.honda {
+    width:100vw;
+    height: 35vw;
+    margin-bottom: 5vh;
+}
+.honda h2{
+    text-align: center;
+    font-size: 38px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    
+}
+.honda a{
+    color: red;
+}
+.honda p{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+    width: 30%;
+    box-shadow: 10px 5px 5px red;
+}
+.hondaPic{
+    height: 85%;
+    margin: 25px;
+}
+.hondaVid{
+    height: 85%;
+    width: 50%;
+    margin: 25px;
+  
+}
+.kawasaki {
+    width:100vw;
+    height: 35vw;
+    margin-bottom: 5vh;
+}
+.kawasaki h2{
+    text-align: center;
+    font-size: 38px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+.kawasaki a{
+    color: rgb(137, 214, 21);
+}
+.kawasaki p{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+    width: 30%;
+    box-shadow: 10px 5px 5px rgb(137, 214, 21);
+}
+.kawasakiPic{
+    height: 85%;
+    margin: 25px;
+}
+.kawasakiVid{
+    height: 85%;
+    width: 50%;
+    margin: 25px;
+  
+}
+.yamaha h2{
+    text-align: center;
+    font-size: 38px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+.yamaha a{
+color: blue
+}
+.yamaha p{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+    width: 30%;
+    box-shadow: 10px 5px 5px blue;
+}
+
+.yamaha {
+    width:100vw;
+    height: 35vw;
+    margin-bottom: 5vh
+}
+.yamahaPic{
+    height: 85%;
+    margin: 25px;
+}
+.yamahaVid{
+    height: 85%;
+    width: 50%;
+    margin: 25px;
+  
+}
+.suzuki h2{
+    text-align: center;
+    font-size: 38px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+.suzuki a{
+color: yellow;
+}
+.suzuki p{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+    width: 30%;
+    box-shadow: 10px 5px 5px yellow;   
+}
+.suzuki {
+    width:100vw;
+    height: 35vw;
+    margin-bottom: 5vh
+}
+.suzukiPic{
+    height: 85%;
+    margin: 25px;
+}
+.suzukiVid{
+    height: 85%;
+    width: 50%;
+    margin: 25px;
+}
